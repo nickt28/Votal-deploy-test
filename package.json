@@ -18,6 +18,7 @@
 		"postcss": "^8.4.31",
 		"svelte": "^4.0.5",
 		"svelte-check": "^3.4.3",
+		"tailwind-obfuscator": "^1.0.14",
 		"tailwindcss": "^3.3.3",
 		"typescript": "^5.0.0",
 		"vite": "^4.4.2"
